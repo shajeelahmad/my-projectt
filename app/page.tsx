@@ -338,7 +338,7 @@ export default function Home() {
                     <div className="w-[40%] pl-20 relative bottom-10 z-20">
                       <img src="/img/clint.jpg" className="m-auto " alt="" />
                     </div>
-                    <div className="w-[40%] ">
+                    <div className="w-[40%]">
                       <h3 className="text-2xl pt-5 font-semibold text-[#323232]">
                         Deno
                       </h3>
